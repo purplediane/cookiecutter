@@ -42,8 +42,8 @@ templates), e.g. creating a Python package project from a Python package project
 We are proud to be an open source sponsor of `PyCon 2016`_.
 
 .. image:: https://raw.githubusercontent.com/PyCon/pycon/develop/pycon/static/img/PNG/PyCon16-logo.png
-        :height: 128px
-        :align: center
+        :height: 96px
+        :background: '#eef'
 
 Features
 --------
